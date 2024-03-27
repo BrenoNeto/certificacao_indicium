@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: sap_adw
+    description: Fonte do ERP da Northwind
+    database: equatorial
+    schema: sap_adw
+    tables:
+      - name: salesorderheader
