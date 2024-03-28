@@ -6,3 +6,5 @@ sources:
     schema: sap_adw
     tables:
       - name: salesorderheader
+      - name: person
+      - name: customer
